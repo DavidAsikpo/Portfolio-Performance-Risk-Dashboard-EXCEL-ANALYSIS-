@@ -1,0 +1,82 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.3.2">
+  <diagram name="Page-1" id="i5w6t8nyYjgF-8Em3IMt">
+    <mxGraphModel dx="1830" dy="1853" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="nW1ny8G9SFX8-nobZIIN-6" edge="1" parent="1" source="nW1ny8G9SFX8-nobZIIN-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="nW1ny8G9SFX8-nobZIIN-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nW1ny8G9SFX8-nobZIIN-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;b&gt;Cleaned Data&lt;/b&gt;&lt;div&gt;Sheet:daily_returns&lt;/div&gt;&lt;div&gt;Range: A2:G2006&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="380" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="nW1ny8G9SFX8-nobZIIN-19" edge="1" parent="1" source="nW1ny8G9SFX8-nobZIIN-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="nW1ny8G9SFX8-nobZIIN-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nW1ny8G9SFX8-nobZIIN-22" edge="1" parent="1" source="nW1ny8G9SFX8-nobZIIN-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="nW1ny8G9SFX8-nobZIIN-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nW1ny8G9SFX8-nobZIIN-24" edge="1" parent="1" source="nW1ny8G9SFX8-nobZIIN-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" target="nW1ny8G9SFX8-nobZIIN-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nW1ny8G9SFX8-nobZIIN-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;b&gt;Daily Returns&lt;/b&gt;&lt;div&gt;&lt;b&gt;Sheet:&lt;/b&gt;daily_returns&lt;/div&gt;&lt;div&gt;&lt;b&gt;Range:&lt;/b&gt; I2:N2006&lt;/div&gt;&lt;div&gt;&lt;b&gt;Formula:&lt;/b&gt; (Price/Old Price) -1&lt;/div&gt;" vertex="1">
+          <mxGeometry height="90" width="120" x="180" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="nW1ny8G9SFX8-nobZIIN-8" edge="1" parent="1" source="nW1ny8G9SFX8-nobZIIN-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="nW1ny8G9SFX8-nobZIIN-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nW1ny8G9SFX8-nobZIIN-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;b&gt;Cummulative Growth&lt;/b&gt;&lt;div&gt;&lt;b&gt;Sheet:&lt;/b&gt; daily_retruns&lt;/div&gt;&lt;div&gt;&lt;b&gt;Range:&lt;/b&gt; P2:U2006&lt;/div&gt;&lt;div&gt;&lt;b&gt;Formula:&lt;/b&gt; (Current Price /Initial Price )&lt;/div&gt;" vertex="1">
+          <mxGeometry height="90" width="120" x="590" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="nW1ny8G9SFX8-nobZIIN-20" edge="1" parent="1" source="nW1ny8G9SFX8-nobZIIN-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="nW1ny8G9SFX8-nobZIIN-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nW1ny8G9SFX8-nobZIIN-28" edge="1" parent="1" source="nW1ny8G9SFX8-nobZIIN-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="nW1ny8G9SFX8-nobZIIN-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nW1ny8G9SFX8-nobZIIN-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;b&gt;Portfolio Value&lt;/b&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;b&gt;Sheet:&lt;/b&gt;daily_returns&lt;/span&gt;&lt;div&gt;&lt;b&gt;Range:&lt;/b&gt; W&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Formula:&lt;/b&gt; Avg(CG)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="670" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="nW1ny8G9SFX8-nobZIIN-7" edge="1" parent="1" source="nW1ny8G9SFX8-nobZIIN-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.585;entryY=0.058;entryDx=0;entryDy=0;entryPerimeter=0;" target="nW1ny8G9SFX8-nobZIIN-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nW1ny8G9SFX8-nobZIIN-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;b&gt;Asset Value&amp;nbsp;&lt;/b&gt;&lt;div&gt;&lt;b&gt;Sheet: &lt;/b&gt;daily_returns&lt;/div&gt;&lt;div&gt;&lt;b&gt;Range:&lt;/b&gt; Y3:AD2006&lt;/div&gt;&lt;div&gt;&lt;b&gt;Formula:&lt;/b&gt; Equal Investment(1 + CG)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="90" width="120" x="480" y="315" as="geometry" />
+        </mxCell>
+        <mxCell id="nW1ny8G9SFX8-nobZIIN-11" edge="1" parent="1" source="nW1ny8G9SFX8-nobZIIN-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.412;entryY=0.069;entryDx=0;entryDy=0;entryPerimeter=0;" target="nW1ny8G9SFX8-nobZIIN-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nW1ny8G9SFX8-nobZIIN-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;b&gt;Total Returns&lt;/b&gt;&lt;div&gt;&lt;b&gt;Sheet:&amp;nbsp;&lt;/b&gt;daily_return&lt;/div&gt;&lt;div&gt;&lt;b&gt;Range:&lt;/b&gt; AJ&lt;/div&gt;&lt;div&gt;&lt;b&gt;Formula: &lt;/b&gt;Sum of daily return&lt;/div&gt;" vertex="1">
+          <mxGeometry height="90" width="120" x="70" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="nW1ny8G9SFX8-nobZIIN-13" edge="1" parent="1" source="nW1ny8G9SFX8-nobZIIN-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.415;entryY=0.053;entryDx=0;entryDy=0;entryPerimeter=0;" target="nW1ny8G9SFX8-nobZIIN-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nW1ny8G9SFX8-nobZIIN-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;b&gt;Monthly Portfolio Value&lt;/b&gt;&lt;div&gt;&lt;b&gt;Sheet: &lt;/b&gt;Portfolio Overview&lt;/div&gt;&lt;div&gt;&lt;b&gt;Range:&lt;/b&gt; K:R&lt;/div&gt;&lt;div&gt;&lt;b&gt;Formula :&lt;/b&gt; Index and match end value of month based selected year and month&lt;/div&gt;" vertex="1">
+          <mxGeometry height="140" width="190" x="760" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="nW1ny8G9SFX8-nobZIIN-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;b&gt;Monthly Votalitity&lt;/b&gt;&lt;div&gt;&lt;b&gt;Sheet:&lt;/b&gt; Votality&lt;/div&gt;&lt;div&gt;&lt;b&gt;Range:&lt;/b&gt;&amp;nbsp;L5:Y17&lt;/div&gt;&lt;div&gt;&lt;b&gt;Formula&lt;/b&gt;:Std of daily returns based on year and month selelcted&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="120" x="270" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="nW1ny8G9SFX8-nobZIIN-21" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;b&gt;Correlation Matrix&lt;/b&gt;&lt;div&gt;&lt;b&gt;Sheet: &lt;/b&gt;Diversification&lt;/div&gt;&lt;div&gt;&lt;b&gt;Range:&lt;/b&gt; C28:I33&lt;/div&gt;&lt;div&gt;&lt;b&gt;Formula:&lt;/b&gt; pearson correlation of securities&lt;/div&gt;" vertex="1">
+          <mxGeometry height="90" width="120" x="290" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="nW1ny8G9SFX8-nobZIIN-23" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;b&gt;Annual Return&amp;nbsp;&lt;/b&gt;&lt;div&gt;&lt;b&gt;Sheet:&lt;/b&gt; periodic Return&lt;/div&gt;&lt;div&gt;&lt;b&gt;Range:&lt;/b&gt; D6:16&lt;/div&gt;&lt;div&gt;&lt;b&gt;Formula:&lt;/b&gt; Product sum of all daily returns based on security and year&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="140" width="120" x="50" y="530" as="geometry" />
+        </mxCell>
+        <mxCell id="nW1ny8G9SFX8-nobZIIN-25" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;h2 style=&quot;font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-language-override: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 22px; line-height: 32px; font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; margin: 32px 0px 16px; color: rgb(15, 17, 21); text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;span style=&quot;font-weight: inherit;&quot;&gt;DATA FLOW DIAGRAM&lt;/span&gt;&lt;/h2&gt;" vertex="1">
+          <mxGeometry height="50" width="320" x="280" y="-10" as="geometry" />
+        </mxCell>
+        <mxCell id="nW1ny8G9SFX8-nobZIIN-26" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;b&gt;KPI&#39;S&lt;/b&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Portfolio Value&amp;nbsp;&lt;div&gt;Top Performer&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="90" width="240" x="580" y="675" as="geometry" />
+        </mxCell>
+        <mxCell id="nW1ny8G9SFX8-nobZIIN-27" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;b&gt;KPI&#39;S&lt;/b&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Risk Level&lt;/span&gt;&lt;div&gt;&lt;div&gt;Total Return&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="240" x="190" y="670" as="geometry" />
+        </mxCell>
+        <mxCell id="nW1ny8G9SFX8-nobZIIN-29" edge="1" parent="1" source="nW1ny8G9SFX8-nobZIIN-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.361;entryY=0.024;entryDx=0;entryDy=0;entryPerimeter=0;" target="nW1ny8G9SFX8-nobZIIN-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
