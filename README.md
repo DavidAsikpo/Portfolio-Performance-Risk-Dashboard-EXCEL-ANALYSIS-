@@ -52,7 +52,7 @@ All visuals and calculations update dynamically when the user selects a differen
 
 ### Live Dashboard (2025 view example)
 
-![Dashboard Screenshot](Documentation/Dashboard_Screenshot.png)
+![Dashboard Screenshot](Documentation/Dashbaord_Screenshot.png)
 > *Interactive dashboard — Portfolio overview, performance charts, volatility trend, correlation heatmap, and risk indicators*
 
 ## Features Implemented (100% Coverage of Requirements)
