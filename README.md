@@ -2,7 +2,7 @@
 
 **Advanced Excel BI Project** — Interactive portfolio analysis & risk monitoring solution (2018–2025)
 
-![Dashboard Screenshot](Documentation/Dashboard_Screenshot.png)
+![Dashboard Screenshot](Documentation/Dashbaord_Screenshot.png)
 > *Main dashboard view — Portfolio value, top performer, risk level, volatility trend, correlation heatmap & more*
 
 ## Project Overview
