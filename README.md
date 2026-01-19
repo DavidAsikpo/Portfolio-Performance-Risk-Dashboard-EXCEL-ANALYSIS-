@@ -10,7 +10,7 @@
 This project delivers a fully formula-driven **Portfolio Performance & Risk Dashboard** built entirely in **Microsoft Excel** (no VBA required), 
 This Excel-based BI dashboard provides interactive analytics for an equally-weighted portfolio of six securities (AAPL, GLD, MFST, ^GSPC, TLT, EMM) 
 from 2018-2025. It delivers key insights on performance, risk, diversification, and seasonality, enabling data-driven investment decisions. 
-Built using native Excel functions,use of power query,pivot tables amd so much more (no VBA), it processes historical data to visualize trends, correlations, and risk-adjusted returns.
+Built using native Excel functions, use of power query, pivot tables and so much more (no VBA), it processes historical data to visualize trends, correlations, and risk-adjusted returns.
 
 It analyzes an **equally-weighted portfolio** of six securities:
 
