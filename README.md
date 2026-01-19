@@ -110,10 +110,11 @@ Full executive report: [`EXECUTIVE_REPORT_OF_PORTFOLIO_ANALYTICS.docx`](Document
 
 ## How to Use
 
-1. Open `portfolio_dashboard.xlsx`
-2. Go to the **Dashboard** or **Portfolio Overview** sheet
+1. Go to https://drive.google.com/drive/folders/1kBIbkSPJZ0PUA1zNuJ9dk9p_gNE4uTnu?usp=sharing and  Open `Multi Investment Portfolio Performance and Risk.xlsk`
+2. Go to the **Dashboard_1** sheet
 3. Select desired **year** from the dropdown
 4. All visuals, KPIs, and risk metrics update automatically
+5. if you want to study project unhide sheets and send me a Dm for sheet password
 
-## Repository Structure
+
 
